@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TourOfHeroes package.json",
   "scripts": {
-    "start": "npm start",
+    "start": "npm start"
   },
   "keywords": [],
   "author": "",
